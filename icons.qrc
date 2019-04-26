@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/ic_clear.svg</file>
+        <file>icons/ic_end_call.svg</file>
+        <file>icons/ic_call.svg</file>
+    </qresource>
+</RCC>
